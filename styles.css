@@ -1,0 +1,67 @@
+body {
+    background-color: #f0f0f0;
+    padding: 2em;
+}
+
+
+body {
+    font-family: 'B612', sans-serif;
+}
+
+
+@media (max-width: 600px) {
+    #body {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1em;
+    }
+}
+
+#body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    gap: 2em;
+    padding: 2em;
+}
+
+h1,
+h2,
+h3,
+#title {
+    font-family: 'B612 Mono', monospace;
+}
+
+
+.italic {
+    font-style: italic;
+}
+
+.mono-text {
+    font-family: 'B612 Mono', monospace;
+}
+
+.mono-italic {
+    font-family: 'B612 Mono', monospace;
+    font-style: italic;
+}
+
+
+#headshot-container {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+
+#headshot-image {
+    border-radius: 8px;
+    width: 300px;
+    margin-bottom: 8px;
+}
+
+#strip-decoration {
+    text-decoration: none;
+}
