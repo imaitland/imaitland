@@ -4,7 +4,7 @@
 
 [ÿo.com](http://ÿo.com)
 
-I am a research software engineer at JHU data science and ai institute. Previously, I worked as a software engineer at AWS and a variety of startups.
+I am a research software engineer at JHU data science and ai institute and the scientific software engineering center. Previously, I worked as a software engineer at AWS and a variety of startups.
 
 <!--
 **imaitland/imaitland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
